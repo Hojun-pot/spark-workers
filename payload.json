@@ -26,7 +26,7 @@
   "guestAccelerators": [],
   "keyRevocationActionType": "STOP",
   "labels": {},
-  "machineType": "projects/sodium-cat-371709/zones/us-west1-b/machineTypes/e2-medium",
+  "machineType": "projects/sodium-cat-371709/zones/europe-west1-b/machineTypes/e2-medium",
   "metadata": {
     "items": [
       {
